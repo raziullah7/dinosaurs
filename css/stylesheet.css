@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    color: bisque;
+    background-color: black;
+    padding: 25px 0;
+    margin-bottom: 25px;
+}
+
+main {
+    text-align: center;
+    background-color: bisque;
+    width: 75%;
+    border: 5px solid black;
+    padding-left: 9%;
+    padding-right: 9%;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 25px 0;
+    margin-top: 25px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 20px;
+}
